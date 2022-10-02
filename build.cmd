@@ -1,3 +1,4 @@
+pip install -r requirements.txt
 pyinstaller --windowed --onefile main.py
 cd dist
 del 4inarow.exe
