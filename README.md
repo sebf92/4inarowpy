@@ -17,7 +17,6 @@ The game exe will be located in /dist
 
 To launch this game in Python, you must first install the required librairies:
 - pygame
-- pytmx
 
 The game main file is main.py
 
